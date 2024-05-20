@@ -3,17 +3,18 @@
 This project analyzes Amazon US reviews specifically focused on electronics. The goal is to enhance user experience by developing a recommendation system that predicts customer preferences based on their review history. The project follows the CRISP-DM methodology, covering stages from business understanding to evaluation.
 
 ## Repository Structure
-├── data
-│   └── processed
+├── data/
+│   └── processed/
 │       ├── df_filtered_removed_outliers.csv
 │       ├── df_no_cold_start.csv
 │       ├── filtered_simple_personalized.csv
 │       └── unfiltered_personalized.csv
-├── notebooks
+├── notebooks/
 │   ├── DataPreparation.ipynb
 │   ├── EDA.ipynb
 │   └── Modeling.ipynb
 └── Project_report.pdf
+
 
 ## Data
 ### Data Files
