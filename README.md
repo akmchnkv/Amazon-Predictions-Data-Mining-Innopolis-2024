@@ -4,25 +4,15 @@ This project analyzes Amazon US reviews specifically focused on electronics. The
 
 ## Repository Structure
 ├── data
-
 │   └── processed
-
 │       ├── df_filtered_removed_outliers.csv
-
 │       ├── df_no_cold_start.csv
-
 │       ├── filtered_simple_personalized.csv
-
 │       └── unfiltered_personalized.csv
-
 ├── notebooks
-
 │   ├── DataPreparation.ipynb
-
 │   ├── EDA.ipynb
-
 │   └── Modeling.ipynb
-
 └── Project_report.pdf
 
 ## Data
